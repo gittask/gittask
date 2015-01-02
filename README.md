@@ -1,4 +1,3 @@
-gittask
-=======
+![gittask](https://cldup.com/KQtsJY4TiE.svg)
 
-The voice of gittask
+The voice of gittask.
